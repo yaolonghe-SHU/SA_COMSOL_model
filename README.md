@@ -40,5 +40,5 @@ This finite element model reproduces the biochemical-to-mechanical signal relay 
 MIT License, see LICENSE file
 
 ## Permanent Archive DOI
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21458786.svg)](https://doi.org/10.5281/zenodo.21458786)
 All simulation files to reproduce Figure 4 are permanently archived at Zenodo for citation.
