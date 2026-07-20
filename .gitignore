@@ -1,0 +1,19 @@
+# COMSOL temporary cache & backup files
+*.mph~
+*.mph.lock
+*.log
+comsol_export_temp/
+
+# System hidden files
+.DS_Store
+Thumbs.db
+
+# IDE cache folders
+.vscode/
+.idea/
+
+# Large temporary output files
+# All required plots are pre-configured inside the mph model; no external exported figures needed
+*.png
+*.pdf
+*.txt
